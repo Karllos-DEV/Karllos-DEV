@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Leave the world more autom without missing the human side of interpersonal interactions.
 - ⚡ i'm love to robotic and talk to people smarter than me.
   ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" display="flex"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 ## Estou aprendendo
@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karllos-DEV&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karllos-DEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Snake animation](https://github.com/Karllos-DEV/Karllos-DEV/blob/output/github-contribution-grid-snake.svg)
+<a href=
+
 
